@@ -1,0 +1,41 @@
+body{
+	padding-top:30px;
+	
+	padding-bottom:50px;
+}
+
+h2{
+	text-align:center;
+	padding-bottom:20px;
+}
+
+h5 {
+	text-align:center;
+	display:block;
+	background-color:#FFC300;
+	padding-bottom:20px;
+	padding-top:20px;
+}
+
+.row{
+	width:140%;
+}
+.col{
+	width:35%;
+}
+.edit-icon{
+	
+	float:left;
+}
+
+.trash-icon{
+	
+	float:right;
+}
+
+.list-group-item{
+    text-align:center;
+	}
+.root{
+	margin-bottom:10px;
+}
